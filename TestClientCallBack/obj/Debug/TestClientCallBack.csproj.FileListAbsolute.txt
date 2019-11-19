@@ -1,0 +1,13 @@
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\bin\Debug\TestClientCallBack.exe.config
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\obj\Debug\MainWindow.g.cs
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\obj\Debug\App.g.cs
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\obj\Debug\TestClientCallBack_MarkupCompile.cache
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\obj\Debug\TestClientCallBack_MarkupCompile.lref
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\bin\Debug\TestClientCallBack.exe
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\bin\Debug\TestClientCallBack.pdb
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\obj\Debug\MainWindow.baml
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\obj\Debug\TestClientCallBack.g.resources
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\obj\Debug\TestClientCallBack.Properties.Resources.resources
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\obj\Debug\TestClientCallBack.csproj.GenerateResource.Cache
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\obj\Debug\TestClientCallBack.exe
+C:\Users\molinarc\Source\Workspaces\Test\TestClientCallBack\TestClientCallBack\obj\Debug\TestClientCallBack.pdb
