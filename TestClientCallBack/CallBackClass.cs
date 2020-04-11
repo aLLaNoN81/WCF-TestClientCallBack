@@ -5,9 +5,19 @@ namespace TestClientCallBack
 {
     public class RequestCallBack : IServiceCallback
     {
-        public void SendResult()
+        public int Id;
+
+        public void SendResultBroadcast(string text)
         {
-            MessageBox.Show("Received!");
+            MessageBox.Show(text);
+        }
+
+        public void SendResult(int id, string text)
+        {
+            if (Id == id)
+            {
+                MessageBox.Show("ID " + Id.ToString() + " - " + text);
+            }
         }
     }
 }

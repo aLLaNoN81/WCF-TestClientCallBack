@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9bf90ed3-455a-4669-9c5c-26036312e7e7" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e92f80cc-0f87-42bc-8c31-529139638884" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -22,9 +22,10 @@
     <MetadataSource Address="http://localhost:8733/TestServerCallBack.WCFService/WCFServiceCallback/" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="ServiceCallback.wsdl" MetadataType="Wsdl" ID="76de9975-9857-49dd-8b9a-a7d3cba06b0f" SourceId="1" SourceUrl="http://localhost:8733/TestServerCallBack.WCFService/WCFServiceCallback/?wsdl" />
-    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="896fed15-4a48-4efd-93a5-3fe15715616e" SourceId="1" SourceUrl="http://localhost:8733/TestServerCallBack.WCFService/WCFServiceCallback/?disco" />
-    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="ea7ea390-fd18-4317-af10-8a70b317c169" SourceId="1" SourceUrl="http://localhost:8733/TestServerCallBack.WCFService/WCFServiceCallback/?xsd=xsd0" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="5ed16e9a-b10c-4c8c-ab8f-e5eb7a16dd12" SourceId="1" SourceUrl="http://localhost:8733/TestServerCallBack.WCFService/WCFServiceCallback/?xsd=xsd1" />
+    <MetadataFile FileName="ServiceCallback.wsdl" MetadataType="Wsdl" ID="55a4a86e-16f3-4e3c-b368-a6535aab08c4" SourceId="1" SourceUrl="http://localhost:8733/TestServerCallBack.WCFService/WCFServiceCallback/?wsdl" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="d3fe7691-0297-46a3-b5c4-62f803ff8e9a" SourceId="1" SourceUrl="http://localhost:8733/TestServerCallBack.WCFService/WCFServiceCallback/?disco" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="bce5258c-976c-4f5d-8b6d-88a15b6476c5" SourceId="1" SourceUrl="http://localhost:8733/TestServerCallBack.WCFService/WCFServiceCallback/?xsd=xsd0" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

@@ -102,6 +102,9 @@
     <None Include="Service References\WCFServiceCallback\item.xsd">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Service References\WCFServiceCallback\item1.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Service References\WCFServiceCallback\ServiceCallback.wsdl" />
   </ItemGroup>
   <ItemGroup>

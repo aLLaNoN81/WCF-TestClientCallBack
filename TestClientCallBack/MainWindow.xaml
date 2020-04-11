@@ -6,7 +6,11 @@
         xmlns:local="clr-namespace:TestClientCallBack"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        <Button Click="Button_Click" Content="PUSH"/>
-    </Grid>
+    <StackPanel>
+        <Button Click="Button_Click" Content="Callback"/>
+        <Button Click="Button_Click_1" Content="Chiamata semplice"/>
+        <Button Click="Button_Click_2" Content="Sottoscrizione"/>
+        <Button Click="Button_Click_3" Content="Cancellazione sottoscrizione"/>
+        <TextBox Name="txb" />
+    </StackPanel>
 </Window>
